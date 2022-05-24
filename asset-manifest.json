@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/d3.js-chart-with-signup-form/static/css/main.cf3d2893.css",
+    "main.js": "/d3.js-chart-with-signup-form/static/js/main.612dd25a.js",
+    "static/js/787.330f294f.chunk.js": "/d3.js-chart-with-signup-form/static/js/787.330f294f.chunk.js",
+    "static/media/background.png": "/d3.js-chart-with-signup-form/static/media/background.82b8329dcc876529e981.png",
+    "index.html": "/d3.js-chart-with-signup-form/index.html",
+    "main.cf3d2893.css.map": "/d3.js-chart-with-signup-form/static/css/main.cf3d2893.css.map",
+    "main.612dd25a.js.map": "/d3.js-chart-with-signup-form/static/js/main.612dd25a.js.map",
+    "787.330f294f.chunk.js.map": "/d3.js-chart-with-signup-form/static/js/787.330f294f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3d2893.css",
+    "static/js/main.612dd25a.js"
+  ]
+}
